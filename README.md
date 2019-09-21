@@ -12,5 +12,5 @@ This is the public website. This is what is presented when you browser the root 
 
 ## /functions folder
 
-The /functions folder is the Firebase cloud functions which will allow us to expose our own REST services to do things like email and other helper functions for the website.
+The functions folder contains the code for the Firebase cloud functions which will allow us to expose our own REST services to do things like email and other helper functions for the website.
 
